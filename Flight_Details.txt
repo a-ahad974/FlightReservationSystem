@@ -1,0 +1,4 @@
+1,22/10/2021,5:00,Emirates,Business,Karachi,Lahore,100000,40,30
+2,22/10/2021,6:00,Emirates,First,Karachi,Lahore,80000,30,9
+3,22/10/2021,5:00,PIA,Economy,Karachi,Lahore,50000,60,42
+4,22/10/2021,7:00,Emirates,First,Karachi,Islamabad,80000,7,2

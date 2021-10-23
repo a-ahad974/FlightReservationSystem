@@ -1,0 +1,3 @@
+10,haider,islamabad,male,43,Se2,3
+100,romail,rest,male,98,FD4,2
+Dt5,3
