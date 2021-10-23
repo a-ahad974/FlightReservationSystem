@@ -36,7 +36,7 @@ public class Passenger {
 		ticketNo=sc.nextLine();
 		//sc.close();
 		
-		System.out.println("\n\nYour account has been created\nLogin with your Ticket Number next Time\n\n");
+		System.out.println("\n\nYour ID has been created\nLogin with your Ticket Number next Time\n\n");
 		
 		
 		
